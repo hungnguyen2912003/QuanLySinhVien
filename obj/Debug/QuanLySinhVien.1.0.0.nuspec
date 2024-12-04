@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuanLySinhVien</id>
+    <version>1.0.0</version>
+    <authors>QuanLySinhVien</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.runtimeconfig.json" target="lib\net8.0-windows7.0\QuanLySinhVien.runtimeconfig.json" />
+    <file src="E:\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.dll" target="lib\net8.0-windows7.0\QuanLySinhVien.dll" />
+  </files>
+</package>

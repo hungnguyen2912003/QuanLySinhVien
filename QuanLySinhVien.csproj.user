@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDangKyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSDiemThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSMonHocDaDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDSSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKetQuaHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQuanLyLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTTGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTTLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTTMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTTSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
